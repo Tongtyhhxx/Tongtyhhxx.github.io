@@ -1,12 +1,12 @@
 # Basic
-title: 潘柏信
+title: 张通
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: Tongtyhhxx
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: 学习强国 / 生物坑一生
+url: "https://Ttongyhhxx.github.io"
 
 # Comment
 comment:
@@ -16,25 +16,34 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: 2172022504
+    github: Ttongyhhxx
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
-    # twitter: 
-    mail: leopardpan@icloud.com
+    # jianshu: 2ada30d8d0f7
+    # twitter:
+    mail: zhangtongnihao@gmail.com
 
 
-# 百度统计 
-# 使用博客模板请去掉或者更换 id 
+# 百度统计
+# 使用博客模板请去掉或者更换 id
 baidu:
-    id: xxxx  
+  <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?a2ec983b692015f67b482697b1b7c3b5";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    id: xxxx
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
 ga:
-    id: xxxx  
-    host: auto  
+    id: xxxx
+    host: auto
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
@@ -62,14 +71,12 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
-    
+    - {title: 所有文章, description: archive, url: '/archive'}
+    - {title: 标签, description: tags, url: '/tags'}
+    - {title: 关于我, description: about, url: '/about'}
+
 
 # Pagination
 gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
-
-
