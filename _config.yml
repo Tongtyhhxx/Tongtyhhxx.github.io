@@ -28,15 +28,6 @@ social:
 # 百度统计
 # 使用博客模板请去掉或者更换 id
 baidu:
-  <script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?a2ec983b692015f67b482697b1b7c3b5";
-  var s = document.getElementsByTagName("script")[0];
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
     id: xxxx
 
 # Google Analytics
