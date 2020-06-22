@@ -1,8 +1,8 @@
-﻿---
+---
 layout: post
-title: "知识点：免疫抑制点（Immune Checkpoint）"
+title: "知识点：免疫抑制点"
 date: 2020-06-22
-description: "好好学习"
+description: "肿瘤免疫"
 tag: 博客
 ---   
 
